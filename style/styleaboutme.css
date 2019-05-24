@@ -1,0 +1,65 @@
+*{
+	margin:0;
+	padding: 0;
+}
+.myname{
+	
+	font-size: 35px;
+	font-family: 'Anton', sans-serif;
+    font-family: 'Lobster', cursive;
+    font-weight: bold;
+	margin-right: 50px;
+	margin-top: 20px;
+	margin-left: 1000px;
+	text-decoration: none;
+	color:red;
+}
+.myname a{
+	text-decoration: none;
+	color:red;
+}
+.main-menu{
+	margin-right: 0px;
+	margin-top: 0px;
+	margin-right: 225px;
+}
+.menu{
+	margin-top: 20px;
+	margin-left: 500px;
+
+}
+.menu li{
+	float: right;
+	margin-right: 10px;
+	list-style: none;
+	margin-top: 
+	
+}
+
+.menu li a{
+	color:black;
+	text-decoration: none;
+}
+.menu li a.abouttext{
+	color:black;
+	text-decoration: underline;
+}
+.menu li a:hover{
+color:red;
+text-decoration: underline;
+}
+
+.aboutimg{
+	width: 100px;
+	height: auto;
+	margin:50px;
+	
+}
+.text{
+	margin:5px 20px 20px 80px;
+	float: right;
+	text-align: right;
+	font-size: 15px;
+	font-family: 'Anton', sans-serif;
+	color: black;
+}

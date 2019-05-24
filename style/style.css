@@ -1,0 +1,77 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+header{
+
+}
+.myname{
+	
+	font-size: 35px;
+	font-family: 'Anton', sans-serif;
+    font-family: 'Lobster', cursive;
+    font-weight: bold;
+	color:red;
+	margin-right: 50px;
+	margin-top: 20px;
+	margin-left: 1000px;
+}
+.main-menu{
+	margin-right: 0px;
+	margin-top: 0px;
+	margin-right: 225px;
+}
+.menu{
+	margin-top: 20px;
+	margin-left: 500px;
+
+}
+.menu li{
+	float: right;
+	margin-right: 10px;
+	list-style: none;
+	margin-top: 
+	
+}
+
+.menu li a{
+	color:black;
+	text-decoration: none;
+}
+.menu li a:hover{
+color:red;
+text-decoration: underline;
+}
+
+.row{
+	position: absolute;
+	margin: 50px 20px 20px 300px;
+
+}
+
+.column{
+	margin:0 0 50px 50px;
+}
+
+.column img{
+	margin:0 0 50px 50px;
+	width: 200px;
+	height: auto;
+	opacity: 0.6;
+}
+
+.column img:hover{
+	opacity: 1;
+	background-color: white;
+	border: 5px solid red;
+	border-radius: 200px;
+
+}
+
+
+footer{
+	text-align: center;
+	text-decoration: none;
+	color:red;
+}
